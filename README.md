@@ -1,2 +1,2 @@
-# microbl
-Hub - Microblogging app
+# microblog
+Hub - Microblogging app lol
